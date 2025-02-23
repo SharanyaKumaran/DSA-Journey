@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Triangle {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int angle1=sc.nextInt();
